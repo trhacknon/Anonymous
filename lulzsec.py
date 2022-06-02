@@ -16,6 +16,7 @@ request_counter=0
 flag=0                                                                                              
 safe=0                                                                                              
 
+
 def inc_counter():
 	global request_counter
 	request_counter+=45
